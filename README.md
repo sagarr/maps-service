@@ -3,7 +3,7 @@ Introduction
 
 Sample project demonstrating integration tests writing using spring, maven and jetty.
 
-You can find integration tests in '/test**/integration' folder.
+You can find integration tests in '/test/**/integration'	folder.
 
 About maps-service
 ==================
